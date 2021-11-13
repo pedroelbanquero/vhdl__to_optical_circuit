@@ -31,7 +31,13 @@ OCF is and SVG format file composet by refraction desgins in diferent rotation g
 
 ### NOR
 
+![image](https://user-images.githubusercontent.com/60758685/141661147-4ea5eb59-909b-4f25-b57e-d0f161fd62b5.png)
+![image](https://user-images.githubusercontent.com/60758685/141661184-1ac51c90-3a9d-4296-a692-53ad09e8292c.png)
+
+
 ### OR
+
+![image](https://user-images.githubusercontent.com/60758685/141661207-c0040423-1925-45fc-9ee7-1d2a02b60ca3.png)
 
 
 ### EOR
