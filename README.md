@@ -28,6 +28,8 @@ OCF is and SVG format file composet by refraction desgins in diferent rotation g
 
 Read 
 
+https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-12-18317&id=432364
+
 https://pubs.acs.org/doi/10.1021/acsphotonics.7b01566
 
 ### XNOR
