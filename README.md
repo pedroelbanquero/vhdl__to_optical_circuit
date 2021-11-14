@@ -24,15 +24,17 @@ VHDL --> OCF;
 OCF is and SVG format file composet by refraction desgins in diferent rotation grades to compose AND, EOR, OR, NOR logic states and Clock signal. 
 
 
-## Optical Gates
-
-Read 
+## References Optical Gates
 
 https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-12-18317&id=432364
 
 https://pubs.acs.org/doi/10.1021/acsphotonics.7b01566
 
 ## Layers
+
+This tool make design in 2d layer who compose 3d circuit in layers, each layer send light to the other among the crystals of the complete circuit.
+
+Each layer contains the optic functions in optic interference logic operators . each function i connected to another in the nex layer.
 
 
 ## Install
