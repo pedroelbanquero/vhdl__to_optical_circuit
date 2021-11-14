@@ -66,6 +66,15 @@ https://pubs.acs.org/doi/10.1021/acsphotonics.7b01566
 
 `./ovhdlcf file_in.vhdl file_out.ocf`
 
+![image](https://user-images.githubusercontent.com/60758685/141662848-a7fff8b6-1d87-4151-86f9-a71ab3ba1902.png)
+
+
+![image](https://user-images.githubusercontent.com/60758685/141662831-ffdf7743-0422-4d23-a6eb-00c27012d914.png)
+
+
+
+
+
 ## Optic 32 bit microprocessor
 
 
