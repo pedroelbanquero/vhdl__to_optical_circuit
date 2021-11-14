@@ -67,9 +67,6 @@ The image below shows a basic example, implementing a full adder and an AND gate
 
 
 
-## Donations
-
-
 ## Authors
 
 Citrix
