@@ -56,6 +56,8 @@ Right now, everything is based on shell scripts that have to be invoked manually
 
 The technology description files and additional data reside in subfolders [10_HDL](10_HDL/), [20_SYNTH](20_SYNTH/), [30_PLACE](30_PLACE/). [10_HDL](10_HDL/) also holds the design files. All intermediate and output files are stored in the [Work](Work/) folder. It can be cleaned by calling the "clean_all.sh" script.
 
+![image](https://user-images.githubusercontent.com/60758685/141831042-c8c2fd56-c6af-4173-9523-d5fdf1866975.png)
+
 The output of the automated part of the flow is an unrouted PCB. Routing and design file generation has to be invoked manually with the indicated tools. Please be aware that the placement tool is in a very early experimental stage. Constants in the code may have to be tuned for better results depending on input design.
 
 # Examples
